@@ -1,0 +1,105 @@
+登录
+注册
+获取用户给的信息  find
+    cookie   session
+获取验证码
+    var str=''
+退出登录
+    cookie   session
+获取列表
+分页
+
+
+今日面试题：
+1、事件冒泡
+2、什么是事件委托
+3、H5的缓存方式及区别
+4、事件绑定和普通事件的区别
+5、同步和异步的区别
+6、闭包的三个特点
+7、什么是原型
+8、对闭包的理解
+9、内存泄漏
+10、this指向
+11、ajax优缺点
+12、BOM的基本属性
+13、行标签
+14、获取浏览器宽高
+15、浏览器内核
+16、px和em的区别
+17、window.onload和document.ready的区别
+18、什么是ajax，优缺点
+19、node中的请求方式
+20、ajax中http请求状态码
+21、什么是json
+22、序列化和反序列化
+23、增加删除Dom节点的方法
+   appendChild  removeChild   replaceChild 
+24、call和apply的区别
+25、get和post的区别
+26、什么是jsonp
+27、jsonp和json的区别
+28、node的特点
+29、exports和module.exports的区别
+
+
+----------------------------------------------------------------
+git     ==》  github                    码云（集成git和svn，两个都可以用）
+  分布式管理系统
+三端：本地区、暂存区、远端区
+
+mongodb的可视化工具：robotMongo  Navicat
+git可视化  选用sourcetree工具
+
+常规命令
+git init  项目初始化
+git status  查看文件状态
+git add . /<file>   添加文件              //' . '代表所有, <file> 添加单个文件
+git add <file> <file> <file>  可以添加多个文件
+git commit -m "第一次提交"     提交到暂存区        //注释必须加引号,且这个注释必须加    -m注释(mark)
+git config --global user.name"用户名"                           *只第一次用
+git config --global user.email"邮箱"                               *只第一次用
+git remote add origin  +url       链接远程仓库               //  url链接路径             *只第一次用
+git push -u origin master     第一次提交                         *只第一次用
+git push   后续提交
+
+
+
+
+
+
+
+
+
+
+
+svn    
+  集成式管理系统
+两端：本地区、远端区
+commit  提交--》本地到远端        update  更新（拉取）--》远端到本地
+缺陷：没有暂存区，基本被淘汰
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
